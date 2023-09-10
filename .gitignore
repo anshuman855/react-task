@@ -1,0 +1,63 @@
+/frontend/node_modules
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/frontend/node_modules
+/frontend/.pnp
+/frontend/.pnp.js
+
+# testing
+/frontend/coverage
+
+# production
+/frontend/build
+
+# misc
+/frontend/.DS_Store
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/fsd-task/node_modules
+/fsd-task/.pnp
+/fsd-task.pnp.js
+
+# testing
+/fsd-task/coverage
+
+# next.js
+/fsd-task/.next/
+/fsd-task/out/
+
+# production
+/fsd-task/build
+
+# misc
+/fsd-task.DS_Store
+/fsd-task*.pem
+
+# debug
+/fsd-task/npm-debug.log*
+/fsd-task/yarn-debug.log*
+/fsd-task/yarn-error.log*
+/
+/# local env files
+/fsd-task.env*.local
+
+# vercel
+/fsd-task.vercel
+
+# typescript
+/fsd-task*.tsbuildinfo
+/fsd-task/next-env.d.ts
+
+.DS_Store
